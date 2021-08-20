@@ -1,15 +1,13 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-16") as fh:
-    long_description = fh.read()
 
 setuptools.setup(
-    name="SciPy-Shlok",
+    name="SciPy",
     version="0.0.1",
     author="Shlok",
     author_email="wizard1net@gmail.com",
     description="A small science package",
-    long_description=long_description,
+    long_description='Nothing',
     long_description_content_type="text/markdown",
     url="https://github.com/Shlol762/SciPy",
     project_urls={
