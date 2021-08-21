@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+SciPy_Shlok.egg-info/PKG-INFO
+SciPy_Shlok.egg-info/SOURCES.txt
+SciPy_Shlok.egg-info/dependency_links.txt
+SciPy_Shlok.egg-info/requires.txt
+SciPy_Shlok.egg-info/top_level.txt
+physics/__init__.py
+physics/errors.py
+physics/quantities.py
+physics/utils.py
