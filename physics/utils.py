@@ -1,4 +1,4 @@
-from.errors import *
+from physics.errors import *
 
 
 def classify(obj: object):
